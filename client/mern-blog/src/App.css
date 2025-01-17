@@ -103,3 +103,8 @@ button{
   padding: 10px;
   
 }
+
+login.h1{
+  display: flex;
+  justify-content: center;align-items: center;
+}
